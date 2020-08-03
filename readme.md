@@ -3,7 +3,7 @@
 - 📖 Bachelor´s degree in Marketing & Communications from BI Norwegian Business School 
 - 👨‍💻 4 years of work experience in the advertisement industry
 - 🤔 Decided to become a developer by learning JavaScript after work and on the weekends
-- 🧂 Got accepted to the </Salt> bootcamp program, starting May 2020. Completed the course as one of the first 14 students in Norway on the 31. July 2020.
+- 🧂 Got accepted to the <\/Salt> bootcamp program, starting May 2020. Completed the course as one of the first 14 students in Norway on the 31. July 2020.
 
 ### I can be found on:
 
@@ -35,7 +35,7 @@
 <img align="left" title="Yarn" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />
 <img align="left" title="Wordpress" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
 <img align="left" title="Webpack" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />
-<img align="left" title="Jest" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
+<img color="#000000" align="left" title="Jest" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
 <img align="left" title="Mocha" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mocha.svg" />
 <img align="left" title="Prettier" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/prettier.svg" />
 <img align="left" title="Adobe Photoshop" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
