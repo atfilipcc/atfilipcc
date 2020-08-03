@@ -4,13 +4,10 @@
 - 👨‍💻 4 years of work experience in the advertisement industry
 - 🤔 Decided to become a developer by learning JavaScript after work and on the weekends
 - 🧂 Got accepted to the <\/Salt> bootcamp program, starting May 2020. Completed the course as one of the first 14 students in Norway on the 31. July 2020.
-<br />
 
 ### I can be found on:
 
 <a href="https://www.linkedin.com/in/filipcordas/"><img align="left" align="left" title="filipcordas | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
-<br />
 
 ### Technologies I have worked with:
 <img align="left" title="VS Code" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
