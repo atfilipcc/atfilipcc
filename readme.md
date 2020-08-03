@@ -12,6 +12,19 @@
 <br />
 
 ### Technologies I have worked with:
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vs-code.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphQL.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-js.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sql.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongo-db.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -31,16 +44,16 @@
 <img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
 <img alt="jQuery" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" />
 <img alt="Bootstrap" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
-<img alt="Material UI" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/materialui.svg" />
+<img alt="Material UI" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/material-ui.svg" />
 <img alt="Docker" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-<img alt="Next" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nextjs.svg" />
+<img alt="Next" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-sjs.svg" />
 <img alt="Yarn" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />>
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/prettier.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/photoshop.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/premiere.svg" />
+<img alt="Wordpress" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
+<img alt="Webpack" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />
+<img alt="Jest" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
+<img alt="Prettier" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/prettier.svg" />
+<img alt="Adobe Photoshop" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
+<img alt="Adobe Premiere Pro" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
 <br />
 <br />
 
