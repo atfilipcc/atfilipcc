@@ -7,7 +7,7 @@
 
 ### I can be found on:
 
-<img align="left" align="left" title="filipcordas | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin
+<img align="left" align="left" title="filipcordas | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 
@@ -38,7 +38,9 @@
 <img align="left" title="Prettier" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/prettier.svg" />
 <img align="left" title="Adobe Photoshop" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
 <img align="left" title="Adobe Premiere Pro" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
-<br />
-<br />
 
+<br />
+<br />
+<br />
+<br />
 linkedin: https://www.linkedin.com/in/filipcordas/
