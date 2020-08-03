@@ -1,4 +1,4 @@
-### Filip Cordas 👋
+### Hi, I´m Filip 👋
 
 - 📖 Bachelor´s degree in Marketing & Communications from BI Norwegian Business School 
 - 👨‍💻 4 years of work experience in the advertisement industry
@@ -7,8 +7,10 @@
 
 ### I can be found on:
 
-<img align="left" align="left" title="filipcordas | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/filipcordas/"><img align="left" align="left" title="filipcordas | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
+<br />
+<br />
 <br />
 
 ### Technologies I have worked with:
@@ -38,9 +40,3 @@
 <img align="left" title="Prettier" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/prettier.svg" />
 <img align="left" title="Adobe Photoshop" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
 <img align="left" title="Adobe Premiere Pro" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
-
-<br />
-<br />
-<br />
-<br />
-linkedin: https://www.linkedin.com/in/filipcordas/
