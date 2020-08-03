@@ -9,6 +9,7 @@
 
 <a href="https://www.linkedin.com/in/filipcordas/"><img align="left" align="left" title="filipcordas | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <br />
+<br />
 
 ### Technologies I have worked with:
 <img align="left" title="VS Code" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
