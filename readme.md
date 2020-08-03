@@ -29,20 +29,18 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
-
-<img align="left" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Material UI" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Yarn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Jest" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Prettier" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Premiere Pro" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img alt="jQuery" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" />
+<img alt="Bootstrap" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
+<img alt="Material UI" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/materialui.svg" />
+<img alt="Docker" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+<img alt="Next" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nextjs.svg" />
+<img alt="Yarn" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />>
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/prettier.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/photoshop.svg" />
+<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/premiere.svg" />
 <br />
 <br />
 
