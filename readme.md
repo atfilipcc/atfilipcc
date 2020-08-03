@@ -7,53 +7,37 @@
 
 ### I can be found on:
 
-<img align="left" alt="filipcordas | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin
+<img align="left" align="left" alt="filipcordas | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin
 
 <br />
 
 ### Technologies I have worked with:
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vs-code.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphQL.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-js.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sql.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongo-db.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
-<img alt="jQuery" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" />
-<img alt="Bootstrap" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
-<img alt="Material UI" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/material-ui.svg" />
-<img alt="Docker" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-<img alt="Next" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-sjs.svg" />
-<img alt="Yarn" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />
-<img alt="Wordpress" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
-<img alt="Webpack" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />
-<img alt="Jest" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
-<img alt="Prettier" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/prettier.svg" />
-<img alt="Adobe Photoshop" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
-<img alt="Adobe Premiere Pro" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
+<img align="left" alt="VS Code" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img align="left" alt="HTML5" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left" alt="CSS3" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img align="left" alt="SASS" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
+<img align="left" alt="Javascript" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" alt="React" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img align="left" alt="Gatsby" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
+<img align="left" alt="GraphQL" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />
+<img align="left" alt="Node JS" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<img align="left" alt="MongoDB" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+<img align="left" alt="Git" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img align="left" alt="GitHub" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" alt="Redux" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
+<img align="left" alt="jQuery" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" />
+<img align="left" alt="Bootstrap" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
+<img align="left" alt="Material UI" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/material-ui.svg" />
+<img align="left" alt="Docker" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+<img align="left" alt="Next" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
+<img align="left" alt="Yarn" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />
+<img align="left" alt="Wordpress" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
+<img align="left" alt="Webpack" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />
+<img align="left" alt="Jest" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
+<img align="left" alt="Mocha" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mocha.svg" />
+<img align="left" alt="Prettier" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/prettier.svg" />
+<img align="left" alt="Adobe Photoshop" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
+<img align="left" alt="Adobe Premiere Pro" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
 <br />
 <br />
 
