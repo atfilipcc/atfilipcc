@@ -3,7 +3,7 @@
 - 📖 Bachelor´s degree in Marketing & Communications from BI Norwegian Business School 
 - 👨‍💻 4 years of work experience in the advertisement industry
 - 🤔 Decided to become a developer by learning JavaScript after work and on the weekends
-- 🧂 Got accepted to the <\/Salt> bootcamp program, starting May 2020. Completed the course as one of the first 14 students in Norway on the 31. July 2020.
+- 🧂 Got accepted to the <\/Salt> bootcamp program, starting May 2020. Completed the bootcamp on the 31. July 2020.
 
 ### I can be found on:
 
