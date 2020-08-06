@@ -19,7 +19,6 @@
 <img align="left" title="Javascript" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" title="React" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
 <img align="left" title="Gatsby" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
-<img align="left" title="GraphQL" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />
 <img align="left" title="Node JS" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 <img align="left" title="MongoDB" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
 <img align="left" title="Git" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
