@@ -12,6 +12,7 @@
 <br />
 
 ### Technologies I have worked with:
+<div>
 <img align="left" title="VS Code" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 <img align="left" title="HTML5" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 <img align="left" title="CSS3" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
@@ -33,8 +34,8 @@
 <img align="left" title="Material UI" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/material-ui.svg" />
 <img align="left" title="Docker" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
 <img align="left" title="Next" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
-<img align="left" title="Yarn" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />
 <br></br>
+<img align="left" title="Yarn" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />
 <img align="left" title="Wordpress" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
 <img align="left" title="Webpack" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />
 <img color="#000000" align="left" title="Jest" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
@@ -42,3 +43,4 @@
 <img align="left" title="Prettier" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/prettier.svg" />
 <img align="left" title="Adobe Photoshop" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
 <img align="left" title="Adobe Premiere Pro" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
+</div>
