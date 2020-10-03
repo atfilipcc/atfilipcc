@@ -17,9 +17,13 @@
 <img align="left" title="CSS3" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 <img align="left" title="SASS" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
 <img align="left" title="Javascript" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" title="TypeScript" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
+<img align="left" title="Dart" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
+<img align="left" title="Flutter" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
 <img align="left" title="React" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
 <img align="left" title="Gatsby" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
 <img align="left" title="Node JS" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<br></br>
 <img align="left" title="MongoDB" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
 <img align="left" title="Git" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
 <img align="left" title="GitHub" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -30,6 +34,7 @@
 <img align="left" title="Docker" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
 <img align="left" title="Next" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
 <img align="left" title="Yarn" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />
+<br></br>
 <img align="left" title="Wordpress" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
 <img align="left" title="Webpack" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />
 <img color="#000000" align="left" title="Jest" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
