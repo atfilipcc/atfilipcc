@@ -23,8 +23,8 @@
 <img align="left" title="Flutter" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
 <img align="left" title="React" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
 <img align="left" title="Gatsby" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
-<img align="left" title="Node JS" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 <br></br>
+<img align="left" title="Node JS" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 <img align="left" title="MongoDB" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
 <img align="left" title="Git" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
 <img align="left" title="GitHub" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -33,8 +33,8 @@
 <img align="left" title="Bootstrap" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
 <img align="left" title="Material UI" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/material-ui.svg" />
 <img align="left" title="Docker" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-<img align="left" title="Next" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
 <br></br>
+<img align="left" title="Next" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
 <img align="left" title="Yarn" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />
 <img align="left" title="Wordpress" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
 <img align="left" title="Webpack" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />
