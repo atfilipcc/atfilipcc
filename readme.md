@@ -33,8 +33,8 @@
 <img align="left" title="Bootstrap" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
 <img align="left" title="Material UI" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/material-ui.svg" />
 <img align="left" title="Docker" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-<br></br>
 <img align="left" title="Next" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
+<br></br>
 <img align="left" title="Yarn" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />
 <img align="left" title="Wordpress" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
 <img align="left" title="Webpack" height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />
