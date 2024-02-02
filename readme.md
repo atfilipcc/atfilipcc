@@ -1,5 +1,5 @@
 ### Hi, I´m Filip 👋
-- 📱 Currently working at No Isolation as an app developer.
+- 📱 Currently working at Tise as an app developer.
 
 ### I can be found on:
 
